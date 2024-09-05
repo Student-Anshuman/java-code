@@ -5,7 +5,7 @@ public class arraypractise1 {
 
     public void findMax(){
         int arr[] = {12,13,32,11,16,32};
-//        int max = 0;
+//       int max = 0;
 //        for(int i=0; i<arr.length; i++){          // find max value
 //            if(max <arr[i]){
 //                max = arr[i];
